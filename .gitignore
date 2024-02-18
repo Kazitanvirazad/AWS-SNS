@@ -24,7 +24,7 @@ hs_err_pid*
 replay_pid*
 
 ### Eclipse ###
-/target/
+**/target/
 /.settings
 .classpath
 .project
